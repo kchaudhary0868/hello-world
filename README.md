@@ -1,1 +1,3 @@
-# hello-world
+# My Self Kamal Chaudhary I have done my B.tech in Information technology and then started working as Software Quality Assurance Engineer. I have 5 years of experience in software testing.
+
+# As I am QA I know about the testing now I want to learn how thing are developed so I have taken this course and particularly in this web site design course I would like to learn to build complete website starting from scratch. and more over by learning this course I will be able to find out the bugs in websites quickly as I will be learning how to build so.
